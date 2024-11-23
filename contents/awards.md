@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
+- First-prize Chinese Mathematical Contest for College Students  2022,2023.
 
-- Freshman Academic Scholarship, 2022.
+- Honorable Mention in MCM, 2024.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- First-prize in Math Modelling Contest, 2023.
 
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- Second-prize Academic Scholarship, 2022-2024.
