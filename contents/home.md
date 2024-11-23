@@ -12,5 +12,5 @@ B.S., Mathematics and Applied Mathematics and Technology, Fudan University, 2020
 Exchange, Data Mathematics, National University of Singapore, 2024.
 
 #### Research Interests
-Applied Mathematics, Data Analysis, Optimization
+Applied Mathematics, Data Analysis, Differential Equations, Optimization
 
