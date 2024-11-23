@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![WYX2244](https://img.shields.io/badge/WYX2244-github-blue?logo=github)](https://github.com/WYX2244)
 
 Currently pursuing a Bachelor's Degree in Mathematics and Applied Mathematics, at Department of Mathematics, Fudan University, Shanghai, China.
 
